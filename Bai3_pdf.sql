@@ -1,0 +1,26 @@
+--CREATE DATABASE qlmb
+USE qlmb;
+GO
+--CREATE TABLE CHUYENBAY(
+--	MaCB nvarchar(10) PRIMARY KEY NOT NULL,
+--	GaDi nvarchar(10) NOT NULL,
+--	GaDen nvarchar(10) NOT NULL,
+--	DoDai int NOT NULL,
+--	GioDi time NOT NULL,
+--	GioDen time NOT NULL,
+--	ChiPhi int NOT NULL
+--)
+--CREATE TABLE MAYBAY(
+--	MaMB nvarchar(10) PRIMARY KEY NOT NULL,
+--	Loai nvarchar(25) NOT NULL,
+--	TamBay int NOT NULL
+--)
+--CREATE TABLE NHANVIEN(
+--	MaNV nvarchar(10) PRIMARY kEY NOT NULL,
+--	Ten nvarchar(25) NOT NULL,
+--	Luong int NOT NULL
+--)
+--CREATE TABLE CHUNGNHAN(
+--	MaNV nvarchar(10) PRIMARY KEY NOT NULL,
+--	MaMB nvarchar(10) NOT NULL
+--)
